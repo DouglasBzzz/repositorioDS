@@ -1,0 +1,4 @@
+nome,endereco,idade
+douglas,"joao pessoa, 672",24
+cleiton,"avenida brasil", 1001,45
+kélen,"avenida tupy, 903",22
